@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family:  'Oswald', sans-serif;
+	background: url(../IM/bg.gif) repeat-x top center;	
+}
+
+
+a{
+	text-decoration:none;
+	color: #665d4e;	
+}
+
+a:hover{
+	color: #e1820b;	
+}
+
+#go_btn{
+	background: url(../IM/go-button.png) no-repeat transparent;
+	position:absolute;
+	top:-14px;
+	right:25px;
+	border: 0px;
+	width: 49px;
+	height: 49px;	
+}
+
+#slide{
+	border: 6px solid #FFF;
+	border-radius: 6px;
+	box-shadow:2px 2px 1px #888888
+}
+
+#title{
+	text-align: center;	
+}
+
+
+
+
+
